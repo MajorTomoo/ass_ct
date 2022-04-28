@@ -1,0 +1,19 @@
+.app-banner{
+    padding: 50px 80px;
+}
+.banner-left{
+    width: 500px;
+}
+.banner-button{
+    background-color: #1FCF8E;
+    border: 1px solid #1FCF8E;
+    border-radius: 25px;
+    color: white;
+    padding: 2px 65px;
+    height:45px;
+    margin-right: 15px;
+    font-size: 18px;
+}
+.app-banner div{
+    display: inline-block;
+}

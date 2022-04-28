@@ -1,0 +1,39 @@
+.ant-menu-horizontal, .ant-menu-item::after, .ant-menu-submenu::after {
+    border: none !important;
+}
+.ant-menu-title-content{
+    color: white;
+    font-weight: 700;
+}
+.header-buttons{
+    position: absolute;
+    right: 25px;
+    width: 480px;
+}
+.app-header{
+    position: relative;
+}
+.ant-btn{
+    display: inline-block;
+}
+.header-play{
+    background-color: #1FCF8E;
+    border: 1px solid #1FCF8E;
+    border-radius: 25px;
+    color: white;
+    padding: 2px 65px;
+    height:45px;
+    margin-right: 15px;
+    font-size: 18px;
+    
+}
+.header-whitepaper{
+    background-color: rgba(0,0,0,0);
+    border: 1px solid #1FCF8E;
+    border-radius: 25px;
+    color: #1FCF8E;
+    padding: 2px 65px;
+    height:45px;
+    font-size: 18px;
+    
+}

@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8bad8810.css",
+    "main.js": "/static/js/main.73af2a3f.js",
+    "static/js/787.e3508837.chunk.js": "/static/js/787.e3508837.chunk.js",
+    "static/media/banner_background.png": "/static/media/banner_background.6b75eb9f8a4e165dd2d5.png",
+    "static/media/box.png": "/static/media/box.7547870141e84015d73f.png",
+    "static/media/characters.png": "/static/media/characters.cbbb0736f206b47ed0ae.png",
+    "static/media/join_bg.png": "/static/media/join_bg.35b8a5ca0e777ad204b9.png",
+    "static/media/fire_spells.png": "/static/media/fire_spells.59fe118e0af8615825e9.png",
+    "static/media/ice_spells.png": "/static/media/ice_spells.ae8aa0e3eaa436e0217e.png",
+    "static/media/poison_spells.png": "/static/media/poison_spells.40fa915607739eca72c0.png",
+    "static/media/numbers.png": "/static/media/numbers.356ee84c78ac3d2f3e3d.png",
+    "static/media/final_spells.png": "/static/media/final_spells.2fb2d62d838c16a19488.png",
+    "index.html": "/index.html",
+    "main.8bad8810.css.map": "/static/css/main.8bad8810.css.map",
+    "main.73af2a3f.js.map": "/static/js/main.73af2a3f.js.map",
+    "787.e3508837.chunk.js.map": "/static/js/787.e3508837.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bad8810.css",
+    "static/js/main.73af2a3f.js"
+  ]
+}
